@@ -1,0 +1,38 @@
+[
+    {
+        "title": "G309 LIGHTSPEED",
+        "price": 3199,
+        "image": "t1.png",
+        "description": ""
+    },
+    {
+        "title": "PRO 2 Lightspeed",
+        "price": 5799,
+        "image": "t2.png",
+        "description": ""
+    },
+    {
+        "title": "G102",
+        "price": 1449,
+        "image": "t3.png",
+        "description": ""
+    },
+    {
+        "title": "G502 X",
+        "price": 3199,
+        "image": "t4.png",
+        "description": ""
+    },
+    {
+        "title": "PRO X SUPERLIGHT 2",
+        "price": 6299,
+        "image": "t5.png",
+        "description": ""
+    },
+    {
+        "title": "G305",
+        "price":3099,
+        "image": "t6.png",
+        "description": ""
+    }
+]
